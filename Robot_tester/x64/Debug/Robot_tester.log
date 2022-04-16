@@ -1,0 +1,7 @@
+﻿  RobotIndu.cpp
+  RobotMobile.cpp
+  Robot_tester.cpp
+C:\Users\saidm\source\repos\Robot_tester\Robot_tester.cpp(14,17): warning C4930: 'RobotMobile RM(void)' : fonction prototypée non appelée (était-ce la définition de variable souhaitée ?)
+C:\Users\saidm\source\repos\Robot_tester\Robot_tester.cpp(13,15): warning C4930: 'RobotIndu RI(void)' : fonction prototypée non appelée (était-ce la définition de variable souhaitée ?)
+  Génération de code en cours...
+  Robot_tester.vcxproj -> C:\Users\saidm\source\repos\Robot_tester\x64\Debug\Robot_tester.exe
